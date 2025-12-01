@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# 민감한 파일
+token.json
+
+# 캐시
+cache/
+
+# IDE
+.vscode/
+.idea/
